@@ -19,10 +19,7 @@ This project presents an interactive Power BI dashboard to analyze workforce per
 
 ## Files Included
 
-* dashboard.pbix
-* Dashboard screenshots
+* dashboard.pbix  Dashboard file available on request due to size limitations.
 * PDF report
 
-## Note
 
-This project was developed as part of academic work.
