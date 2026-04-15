@@ -35,7 +35,7 @@ This project demonstrates how data visualization can transform raw data into mea
 
 ## Screenshots
 
-(Add your dashboard screenshots here)
+https://github.com/NikhilaChandini/Powerbi-employee-dashboard/blob/d0451529fc87dc7f4fab10a8d15d2d9873de5161/Power%20Bi.pdf
 
 ---
 
