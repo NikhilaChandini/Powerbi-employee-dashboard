@@ -35,7 +35,7 @@ This project demonstrates how data visualization and analytics can be used to id
 
 ## Screenshots
 
-(Add your dashboard screenshots here)
+https://github.com/NikhilaChandini/Powerbi-employee-dashboard/blob/7dc2b10d5c0941830f5cae144e57ec0604b39db5/Power%20Bi.pdf
 
 ---
 
